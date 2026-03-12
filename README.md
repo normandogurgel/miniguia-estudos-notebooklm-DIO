@@ -53,4 +53,4 @@ Objetivos de estudo:
 ## 🎤 Apresentação Final
 Guia 
 
-Desenvolvido por Normando Gomes Gurgel
+Desenvolvido por Normando Gomes Gurgel - Março/2026
