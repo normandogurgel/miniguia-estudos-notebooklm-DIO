@@ -50,7 +50,20 @@ Objetivos de estudo:
 - Interoperabilidade: capacidade de diferentes sistemas hospitalares se comunicarem.
 - Saúde Digital: uso de tecnologias digitais para melhorar serviços de saúde.
 
-## 🎤 Apresentação Final
-Guia 
+## 🎤 Arquivos Gerados pelo NotebookLM
+
+### Apresentações
+Healthcare_Digital_Maturity
+Brazil_Digital_Health_Strategy_2028
+
+### Infográficos 
+Estratégia de Saúde Digital Brasil
+NotebookLM Mind Map
+
+### Planilha
+Prioridades da Estratégia de Saúde Digital para o Brasil 2020-2028
+
+
+ 
 
 Desenvolvido por Normando Gomes Gurgel - Março/2026
