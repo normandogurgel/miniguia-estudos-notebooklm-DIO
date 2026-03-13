@@ -50,7 +50,7 @@ Objetivos de estudo:
 - Interoperabilidade: capacidade de diferentes sistemas hospitalares se comunicarem.
 - Saúde Digital: uso de tecnologias digitais para melhorar serviços de saúde.
 
-## 🎤 Arquivos Gerados pelo NotebookLM
+## 🎤 Arquivos anexados gerados pelo NotebookLM
 
 ### Apresentações
 - Healthcare_Digital_Maturity
