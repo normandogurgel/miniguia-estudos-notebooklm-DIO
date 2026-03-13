@@ -53,17 +53,16 @@ Objetivos de estudo:
 ## 🎤 Arquivos Gerados pelo NotebookLM
 
 ### Apresentações
-Healthcare_Digital_Maturity
-Brazil_Digital_Health_Strategy_2028
+- Healthcare_Digital_Maturity
+- Brazil_Digital_Health_Strategy_2028
 
 ### Infográficos 
-Estratégia de Saúde Digital Brasil
-NotebookLM Mind Map
+- Estratégia de Saúde Digital Brasil
+- NotebookLM Mind Map
 
 ### Planilha
-Prioridades da Estratégia de Saúde Digital para o Brasil 2020-2028
+- Prioridades da Estratégia de Saúde Digital para o Brasil 2020-2028
 
 
  
-
-Desenvolvido por Normando Gomes Gurgel - Março/2026
+### Projeto desenvolvido por Normando Gomes Gurgel - Março/2026
